@@ -1,6 +1,6 @@
 package EstructuraBase;
 
-public class EmpleadoDAO implements IEmpleadoInicialDAO {
+public class EmpleadoInicialDAO implements IEmpleadoInicialDAO {
     // Aqui se implementa la logica para manejar empleados en memoria o base de datos
     @Override
     public void agregarEmpleado(EmpleadoInicial empleado) {

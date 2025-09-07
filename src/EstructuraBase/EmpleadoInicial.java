@@ -19,9 +19,9 @@ public class EmpleadoInicial {
         return salario ;
     }
     public void setPuesto(String puesto) {
-        this . puesto = puesto ;
+        this.puesto = puesto ;
     }
     public void setSalario (double salario ) {
-        this . salario = salario ;
+        this.salario = salario ;
     }
 }
